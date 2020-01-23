@@ -14,7 +14,7 @@ public class Student {
     private String name = "Richie Kong";
     private int ID;
     private String program;
-
+    private String value;
     /**
      * Get the value of name
      *
