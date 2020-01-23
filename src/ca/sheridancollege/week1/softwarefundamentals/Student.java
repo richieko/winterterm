@@ -11,7 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Student {
     
-    private String name = "Richie";
+    private String name = "Richie Kong";
     private int ID;
     private String program;
 
